@@ -1,0 +1,29 @@
+input
+{
+    margin : 40px 25px;
+    width : 200px;
+    border : none;
+    padding : 10px 0;
+    border-bottom: solid 1px pink;
+    background: (
+        to bottom,
+        rgba(red, green, blue, alpha) 96%,
+        chocolate 4%
+
+    );
+    background-position: -200px 0;
+    background-size: 200px 100%;
+    background-repeat: no-repeat;
+    color: black;
+}
+button
+{
+ border : none;
+ background: blueviolet;
+ cursor: pointer;
+ border-radius: 3px;
+ padding: 6px;
+ width: 200px;
+ color: burlywood;
+ margin-left: 25px;
+}
